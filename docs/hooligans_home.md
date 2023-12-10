@@ -1,5 +1,5 @@
 layout: page
 title: "Cyber Hooligans"
-permalink: /home
+permalink: /home/
 
 We are the hooligans.
