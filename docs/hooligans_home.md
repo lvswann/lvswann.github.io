@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cyber Hooligans"
-permalink: /home/
+permalink: /hooliganshome/
 ---
 
 We are the hooligans.
